@@ -1,4 +1,6 @@
 ---
+genres:
+  - puzzle
 post: https://github.com/nickshillingford/js13kGames-Disconnected/blob/f853908d559a41774441ba8e941a788f9dccca76/README.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
